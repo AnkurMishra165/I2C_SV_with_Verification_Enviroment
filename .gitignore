@@ -1,0 +1,23 @@
+# Vivado generated files
+*.log
+*.jou
+*.str
+*.cache
+*.hw
+*.runs
+*.sim
+*.xpr
+*.xml
+*.wdb
+*.ltx
+*.bit
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.zip
+
+# OS junk
+.DS_Store
+Thumbs.db
